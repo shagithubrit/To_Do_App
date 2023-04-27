@@ -41,5 +41,3 @@ ToDo application is based on NodeJs and express as server side technology, Mongo
 ## Acknowledgments
 
 This project is done by me from scratch by refering to the above websites .
-## Deployed Link
--[TODO APP](https://gentle-hollows-01032.herokuapp.com/)
